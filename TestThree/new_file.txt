@@ -1,0 +1,6 @@
+this is the new file
+<<<<<<< HEAD
+=======
+this is my 2nd commit
+this is my 3rd commit
+>>>>>>> 027e76f (this is my 3rd commit)
